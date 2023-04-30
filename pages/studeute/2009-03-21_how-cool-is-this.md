@@ -10,15 +10,15 @@ Just by accident, I met the son a few years ago. Great guy. He gave me tons of p
 
 These pictures were in those he gave me. It’s him and his “new” custom he had just purchased in California. It was 1958…
 
-![](/images/pop/studeute/Sept1958Custom1.jpg)
+![](/images/studeute/Sept1958Custom1.jpg)
 
-![](/images/pop/studeute/Custom2.jpg)
+![](/images/studeute/Custom2.jpg)
 
 I was out cruising the Ute today and couldn’t resist taking a few in a similar spot…
 
-![](/images/pop/studeute/floor005-1.jpg)
+![](/images/studeute/floor005-1.jpg)
 
-![](/images/pop/studeute/floor007-1.jpg)
+![](/images/studeute/floor007-1.jpg)
 
 Both are 53’s, both were customized in ‘58, and both have “lived” at the same house…only 50 years apart! 😎  
 

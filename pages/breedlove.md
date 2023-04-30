@@ -3,7 +3,7 @@ layout: post
 title: Meeting Craig Breedlove
 date: 2000-03-17
 description: The story of when Dick Steinkamp met Craig Breedlove.
-thumbnail: /images/pop/breedlove/craig_breedlove.jpg
+thumbnail: /images/breedlove/craig_breedlove.jpg
 ---
 
 > I first learned of Breedlove in 1963 when I was just becoming a "car guy" with the Beach Boys song "Spirit of America" on the first album I ever purchased, "Little Deuce Coupe". Craig Breedlove an epic, 407 per hour. I followed his exploits ever since.
@@ -18,7 +18,7 @@ I left the house about 8 am and cruised up 680 to 580 to Vasco Road…through Br
 
 S2D ran good (as usual).  It likes to cruise best at 3,000 which is somewhere between 60 and 65 depending upon how bad the speedometer error really is.  The car is either getting easier to drive, or I’m getting used to it…probably the later.
 
-{% captionedimage src="/images/pop/breedlove/s2d.jpg" caption="S2D at rest. 1953 Studebaker Commander Coupe with a small block Chevy and 4 speed." title="S2D" /%}
+{% captionedimage src="/images/breedlove/s2d.jpg" caption="S2D at rest. 1953 Studebaker Commander Coupe with a small block Chevy and 4 speed." title="S2D" /%}
 
 The seat re-do by Howdy makes it much more comfortable for my old butt during a long (two hour) trip like this and I’m happier with the weather a little on the cool side like it was on Saturday (black on black…no air you know).   I stopped a few times on Vasco Road for “photo opportunities” of  S2D and the still green hills.  I didn’t find a good spot on the way out to catch part of the “wind farm” as a background, but did on the way back.  I hope the pictures turn out.
 
@@ -41,11 +41,11 @@ The line moved slowly, because Craig took the time to talk to everyone when it w
 
 My turn for the poster of Craig next to the car at Black Rock.  I told him my name and asked him if he could include something about Studebakers when he signed it.
 
-![The Poster](/images/pop/breedlove/poster_signed.jpg)
+![The Poster](/images/breedlove/poster_signed.jpg)
 
 To Dick,  
 Think fast!  
 “Studies rule”  
 Craig Breedlove
 
-![Close Up](/images/pop/breedlove/poster_closeup.jpg)
+![Close Up](/images/breedlove/poster_closeup.jpg)

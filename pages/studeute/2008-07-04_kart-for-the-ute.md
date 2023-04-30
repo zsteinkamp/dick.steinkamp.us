@@ -10,9 +10,9 @@ In the meantime, I have been hunting for the right Kart to display in the bed of
 
 I found it and bought it today…
 
-![](/images/pop/Kart_Hauler_Blog/11-kart_023.jpg)
+![](/images/Kart_Hauler_Blog/11-kart_023.jpg)
 
-![](/images/pop/Kart_Hauler_Blog/11-kart_005_2.jpg)
+![](/images/Kart_Hauler_Blog/11-kart_005_2.jpg)
 
 It’s a Dart “A-bone” with two West Bend 820’s. Race ready.
 

@@ -4,8 +4,8 @@ import path from 'path'
 import PostIndex from '@/components/PostIndex'
 
 export const getStaticProps = async () => {
-  const posts = await getPosts({ indexPath: 'pop', newestFirst: false });
-  const dirmeta = await getDirMeta(path.join(process.cwd(), 'pages/pop'));
+  const posts = await getPosts({ indexPath: '.', newestFirst: false });
+  const dirmeta = await getDirMeta(path.join(process.cwd(), 'pages/'));
 
   return {
     props: {

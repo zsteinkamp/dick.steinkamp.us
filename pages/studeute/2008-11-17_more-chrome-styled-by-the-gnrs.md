@@ -6,7 +6,7 @@ date: "2008-11-17"
 
 I got some chrome back from Jerry Forrester today…
 
-![](/images/pop/Kart_Hauler_Blog/29-chrome_003.jpg)
+![](/images/Kart_Hauler_Blog/29-chrome_003.jpg)
 
 It is frickin PERFECT. If you looked up “show chrome” in the dictionary, Jerry’s work would be there. 😝
 

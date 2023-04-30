@@ -6,8 +6,8 @@ import PostIndex from '@/components/PostIndex'
 import BackButton from '@/components/BackButton'
 
 export const getStaticProps = async () => {
-  const posts = await getPosts({ indexPath: 'pop/studeute', newestFirst: false });
-  const dirmeta = await getDirMeta(path.join(process.cwd(), 'pages/pop/studeute'));
+  const posts = await getPosts({ indexPath: 'studeute', newestFirst: false });
+  const dirmeta = await getDirMeta(path.join(process.cwd(), 'pages/studeute'));
 
   return {
     props: {

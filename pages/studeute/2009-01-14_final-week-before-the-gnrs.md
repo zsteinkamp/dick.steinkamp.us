@@ -8,9 +8,9 @@ I’m at my son’s house in San Jose, madly trying to cram two weeks’ worth o
 
 Today, I installed the stainless strips in the bed…
 
-![](/images/pop/Kart_Hauler_Blog/38-end_007.jpg)
+![](/images/Kart_Hauler_Blog/38-end_007.jpg)
 
-![](/images/pop/Kart_Hauler_Blog/38-end_008.jpg)
+![](/images/Kart_Hauler_Blog/38-end_008.jpg)
 
 I also got the residue from color sanding and dust off the chassis…
 
@@ -20,10 +20,10 @@ I also got the residue from color sanding and dust off the chassis…
 
 The dash is coming together…
 
-![](/images/pop/Kart_Hauler_Blog/38-end_002.jpg)
+![](/images/Kart_Hauler_Blog/38-end_002.jpg)
 
 Still too many items left on the punch list…
 
-![](/images/pop/Kart_Hauler_Blog/38-end_014.jpg)
+![](/images/Kart_Hauler_Blog/38-end_014.jpg)
 
 ![](/wp-content/uploads/2009/01/img_02451-600x450.jpg "img_02451")

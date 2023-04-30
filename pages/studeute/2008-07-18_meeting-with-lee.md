@@ -11,11 +11,11 @@ What a great guy! Friendly, sincere, interesting, lively. He’s been a “gear 
 Here is Lee and his wife Judy at lunch today…
 
 
-![](/images/pop/Kart_Hauler_Blog/12-pics_038.jpg)
+![](/images/Kart_Hauler_Blog/12-pics_038.jpg)
 
 Here’s another Stude he customized with Corvette tail lights…
 
-![](/images/pop/Kart_Hauler_Blog/oldpics1.jpg)
+![](/images/Kart_Hauler_Blog/oldpics1.jpg)
 
 Coincidently, he painted it the color that I am leaning towards for the Ute at this point…1954 Studebaker Azore Green. Lee gave me permission to paint the Ute that color 😄
 
@@ -27,11 +27,11 @@ Lee gave me copies of 15 pictures of the car under construction and completed. H
 
 Here’s one shot of the finished car in 1958…
 
-![](/images/pop/Kart_Hauler_Blog/oldpics6.jpg)
+![](/images/Kart_Hauler_Blog/oldpics6.jpg)
 
 Here’s one of it under construction. That’s Lee doing the welding and his partner Sam helping…
 
-![](/images/pop/Kart_Hauler_Blog/oldpics14.jpg)
+![](/images/Kart_Hauler_Blog/oldpics14.jpg)
 
 He also told me about 100 stories about building the car. Just great stuff I never expected to learn when I bought the car.
 
