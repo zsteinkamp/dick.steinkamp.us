@@ -4,7 +4,7 @@ title: At the Clubhouse
 date: "2007-12-07"
 ---
 
-Since the new Custom doesn’t have an engine/trans, it had an ugly super nose high stance. I pulled the front springs out and just put a 2 x 4 between the lower A arm and the upper spring pocket. Now it sits approximately right (temporarily).
+Since the new Custom doesn’t have an engine/trans, it had an super ugly nose high stance. I pulled the front springs out and just put a 2 x 4 between the lower A arm and the upper spring pocket. Now it sits approximately right (temporarily).
 
 I also tossed the wheels and tires that were on it and put on some 205 75 15’s on 4 1/2″ Lark wheels temporarily. At least they fit under the car 😃.
 

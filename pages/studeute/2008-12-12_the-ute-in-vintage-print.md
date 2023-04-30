@@ -12,9 +12,4 @@ My buddy, Pekka in Finland, had alerted me earlier to another picture of the Ute
 
 Lately, he informed me of the Ute on the cover of another magazine in his collection…
 
-_TODO: three missing images below of dicks-ute-on-the-cover-of-carcraft-july-1960_
-![](/wp-content/uploads/2008/12/dicks-ute-on-the-cover-of-carcraft-july-1960.jpg "dicks-ute-on-the-cover-of-carcraft-july-1960")
-
-![](/wp-content/uploads/2008/12/dicks-ute-on-the-cover-of-carcraft-july-1960b.jpg "dicks-ute-on-the-cover-of-carcraft-july-1960b")
-
-![](/wp-content/uploads/2008/12/dicks-ute-on-the-cover-of-carcraft-july-1960c.jpg "dicks-ute-on-the-cover-of-carcraft-july-1960c")
+(_TODO: find three missing images that have dicks-ute-on-the-cover-of-carcraft-july-1960 in the filename_)

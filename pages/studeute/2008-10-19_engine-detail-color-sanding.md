@@ -31,5 +31,3 @@ The car is at that stage where the shiny, as shot paint, has been sanded (1500) 
 ![](/images/Kart_Hauler_Blog/24-dash_006.jpg)
 
 Making progress on assembling the chassis. With a few minor exceptions, it is essentially done…
-
-![](/images/studeute/colorsand008.jpg)
