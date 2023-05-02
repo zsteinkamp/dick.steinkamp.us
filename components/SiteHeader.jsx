@@ -20,6 +20,7 @@ const SiteHeader = () => {
 
         <div className="trigger font-condensed">
           <Link className="page-link" href="/">Posts</Link>
+          <Link className="page-link" href="/timeline">Timeline</Link>
         </div>
       </nav>
 

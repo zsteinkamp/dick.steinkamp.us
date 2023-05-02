@@ -162,21 +162,30 @@ button {
   border: 1px solid red;
 }
 
-.resume h2 {
-  margin-bottom: 1rem;
-  border-bottom: 2px solid;
-  @apply border-stone-300 dark:border-stone-700
+.timeline {
+  position: relative;
 }
-.resume .job-date {
-  float: right;
-  line-height: 2.5rem;
-}
-.resume .job-company {
-}
-.resume ul {
-  list-style-type: disc;
-  padding-left: 1rem;
+.timelineRow {
+  display: flex;
+  width: 45%;
+  flex-direction: row-reverse;
+  align-items: flex-start;
   margin-bottom: 2rem;
+}
+.timelineRow.odd {
+  margin-left:55%;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.timelineRow.even .projTitle {
+  text-align: right;
+}
+.timelineRow .projYear {
+  position:absolute;
+  left:47.5%;
+}
+.timelineRow .projTitle {
+  margin-top: -0.4rem;
 }
 
 @media print
