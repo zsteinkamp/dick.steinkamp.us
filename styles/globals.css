@@ -166,7 +166,7 @@ button {
   position: relative;
 }
 .timelineRow {
-  margin-bottom: 4rem;
+  margin-bottom: 8rem;
 }
 .timelineRow.even .projContent {
   text-align:right;
@@ -181,6 +181,9 @@ button {
 }
 .timelineRow .projTitle {
   margin-top: 0rem;
+}
+.timelineRow .projDesc {
+  @apply text-sm
 }
 
 @media print
