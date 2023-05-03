@@ -166,26 +166,21 @@ button {
   position: relative;
 }
 .timelineRow {
-  display: flex;
-  width: 45%;
-  flex-direction: row-reverse;
-  align-items: flex-start;
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
-.timelineRow.odd {
-  margin-left:55%;
-  flex-direction: row;
-  align-items: flex-start;
+.timelineRow.even .projContent {
+  text-align:right;
 }
-.timelineRow.even .projTitle {
-  text-align: right;
+.timelineRow.odd .projContent {
+  @apply flex-row-reverse
 }
 .timelineRow .projYear {
   position:absolute;
-  left:47.5%;
+  left:50%;
+  transform: translateX(-50%);
 }
 .timelineRow .projTitle {
-  margin-top: -0.4rem;
+  margin-top: 0rem;
 }
 
 @media print
