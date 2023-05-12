@@ -9,34 +9,27 @@
   projYear: 1983
   image: 38_john_deere_b.jpg
   desc: |
-    Here are some sentences that would mostely sinmulate how much writing there would be here in this space.
-    Here is another sentence that should show up after the last one.
-
-    Maybe this would feel like a paragraph break?
+- year: 1966
+  title: Porsche 912
+  projYear: 1990
+  image: 66_porsche_912.jpg
+  desc: |
 - year: 1967
   title: Porsche 912
   projYear: 1995
   image: 67_porsche_912.jpg
   desc: |
-    Here are some sentences that would mostely sinmulate how much writing there would be here in this space.
-    Here is another sentence that should show up after the last one.
-
-    Maybe this would feel like a paragraph break?
 - year: 1928
   title: Model A Ford Roadster
   projYear: 1997
   image: 28_ford_model_a_roadster.jpg
   desc: |
-    Here are some sentences that would mostely sinmulate how much writing there would be here in this space.
-    Here is another sentence that should show up after the last one.
-
-    Maybe this would feel like a paragraph break?
 - year: 1962
   title: Lark 4 door (13,000 miles)
   projYear: 1998
   image: 62_stude_lark_4_door_13kmi.jpg
   desc: |
-    This was a low mileage Lark.jfjfjfj
+    This was a low mileage Lark.
 - year: 1954
   title: Studebaker Starliner hot rod
   projYear: 2000
