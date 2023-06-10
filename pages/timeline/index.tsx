@@ -32,7 +32,7 @@ const Timeline = ({ data }) => {
     if (links.length > 0) {
       linkContent = (<ul className="links">
           { links.map((l) => {
-            return <li><Link href={l.link}>{l.text}</Link></li>
+            return <li><Link href={l.link} target="_blank">{l.text}</Link></li>
           })}
         </ul>)
     }
