@@ -49,7 +49,7 @@ const Timeline = ({ data }) => {
             { linkContent }
           </div>
           <div className="basis-2/12"></div>
-          <div className="basis-5/12 projImage"><Image className="" src={`/images/timeline/${project.image}`} width="384" height="384" alt={project.title} /></div>
+          <div className="basis-5/12 projImage"><Image className="" src={`/images/timeline/${project.image}`} height="600" width="600" alt={project.title} /></div>
         </div>
       </div>
     )});
