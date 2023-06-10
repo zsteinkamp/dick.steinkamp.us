@@ -30,15 +30,15 @@ const Timeline = ({ data }) => {
     }
     let linkContent = null
     if (links.length > 0) {
-      linkContent = (<ul className="links">
-          { links.map((l) => {
-            return <li><Link href={l.link} target="_blank">{l.text}</Link></li>
+      linkContent = (
+        <ul className="links">
+          { links.map((l, i) => {
+            return <li key={i}><Link href={l.link} target="_blank">{l.text}</Link></li>
           })}
-        </ul>)
+        </ul>
+      )
     }
      
-
-
     return (
       <div key={project.image} className={`timelineRow ${i % 2 ? "even" : "odd"}`}>
         <div className="projYear">{project.projYear}</div>
