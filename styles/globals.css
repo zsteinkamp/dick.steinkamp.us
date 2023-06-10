@@ -185,6 +185,16 @@ button {
 .timelineRow .projDesc {
   @apply text-sm
 }
+.timelineRow .links {
+  margin-top: -1rem;
+}
+.timelineRow .links li {
+  display: inline;
+}
+.timelineRow .links li:not(:first-child):before {
+  content: " | "
+}
+  
 
 @media print
 {

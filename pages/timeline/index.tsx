@@ -19,6 +19,25 @@ const Timeline = ({ data }) => {
   const timeline = data.map((project, i) => {
     const ast = Markdoc.parse(project.desc || '');
     const content = Markdoc.transform(ast);
+    const links = []
+    if (project.moreLink) { links.push({ text: "More Info", link: project.moreLink })}
+    if (typeof project.video === 'string') {
+      project.video = [project.video]
+    }
+    if (project.video) { 
+      for (const v of project.video)
+      links.push({ text: "Video", link: v })
+    }
+    let linkContent = null
+    if (links.length > 0) {
+      linkContent = (<ul className="links">
+          { links.map((l) => {
+            return <li><Link href={l.link}>{l.text}</Link></li>
+          })}
+        </ul>)
+    }
+     
+
 
     return (
       <div key={project.image} className={`timelineRow ${i % 2 ? "even" : "odd"}`}>
@@ -27,7 +46,7 @@ const Timeline = ({ data }) => {
           <div className="basis-5/12 projText">
             <h2 className="projTitle font-condensed text-2xl mb-2 mt-2">{project.year} {project.title}</h2>
             <div className="projDesc" dangerouslySetInnerHTML={{__html: Markdoc.renderers.html(content)}}></div>
-            { project.moreLink && <Link href={project.moreLink}>More info...</Link>}
+            { linkContent }
           </div>
           <div className="basis-2/12"></div>
           <div className="basis-5/12 projImage"><Image className="" src={`/images/timeline/${project.image}`} width="384" height="384" alt={project.title} /></div>
