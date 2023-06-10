@@ -257,11 +257,19 @@
 - year: 1963
   title: Studebaker Avanti
   projYear: 2010
+  video: https://www.youtube.com/watch?v=bZOrl1Y9IL4
   image: 63_avanti.jpg
+  desc: |
+    This was owned by and architec in Seattle.  Nice guy.  He had this Avanti for several years and could never get it running right.  I trailered it home and quickly found out that a needle and seat in one float bowl was adjusted all the way closed.  It was running on 4 cylinders.  Paul Dart replaced the left side hog trough.  I sold it to a friend of Fred Cook and trailered it to him in Redding
 - year: 1965
   title: Raysoncraft flatbottom V-drive
   projYear: 2010
+  video:
+    - https://www.youtube.com/watch?v=7fS_vUVK-Ww
+    - https://www.youtube.com/watch?v=RLvv0kvjUo4
   image: 65_raysoncraft_flatbottom_vdrive.jpg
+  desc: |
+    I bought this in Gig Harbor.  The engine was locked up, but the boat looked great.  I took the heads off and got it freed up.  It started right up and ran well.  Trailered it to Coupeville.  The buyer had come from Pt Townsend to pick it up.
 - year: 1969
   title: MGB GT
   projYear: 2010
