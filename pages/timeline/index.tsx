@@ -7,6 +7,7 @@ import Markdoc from '@markdoc/markdoc';
 
 export const getStaticProps = async () => {
   const data = yaml.load(await (fsp.readFile(path.join(process.cwd(), "pages", "timeline.yml"))));
+  data.sort((a, b) => a.projYear < b.projYear ? -1 : 1)
 
   return {
     props: {
