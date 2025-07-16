@@ -1,4 +1,4 @@
-FROM node:18 AS dev
+FROM node:22 AS dev
 
 WORKDIR /app
 COPY package* .
